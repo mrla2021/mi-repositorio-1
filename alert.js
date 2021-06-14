@@ -4,8 +4,8 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  * --------------------------------------------------------------------------
  */
-//miguelito0
-//amor ladro 
+
+//amor amor amor
 import {
   defineJQueryPlugin,
   getElementFromSelector
