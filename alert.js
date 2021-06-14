@@ -5,7 +5,7 @@
  * --------------------------------------------------------------------------
  */
 //miguelito0
-//amor pio6 
+//amor ladro 
 import {
   defineJQueryPlugin,
   getElementFromSelector
